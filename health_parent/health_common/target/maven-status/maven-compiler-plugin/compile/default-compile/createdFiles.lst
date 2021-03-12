@@ -1,0 +1,14 @@
+com\itheima\pojo\TSetmeal.class
+com\itheima\pojo\TCheckgroup.class
+com\itheima\pojo\TMember.class
+com\itheima\entity\PageResult.class
+com\itheima\pojo\TRole.class
+com\itheima\pojo\TCheckitem.class
+com\itheima\entity\Result.class
+com\itheima\pojo\TPermission.class
+com\itheima\pojo\TOrdersetting.class
+com\itheima\pojo\TUser.class
+com\itheima\constant\MessageConstant.class
+com\itheima\pojo\TOrder.class
+com\itheima\pojo\TMenu.class
+com\itheima\entity\QueryPageBean.class
