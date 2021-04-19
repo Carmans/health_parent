@@ -10,7 +10,7 @@ public class Result implements Serializable{
     private String message;//返回结果信息
     private Object data;//返回数据
     public Result(boolean flag, String message) {
-        super();
+                                    
         this.flag = flag;
         this.message = message;
     }
